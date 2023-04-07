@@ -1,0 +1,4 @@
+*.exe
+*.sqlite
+*.sqbpro
+.idea/
